@@ -77,7 +77,7 @@ class KhipuServiceCreatePaymentPage extends KhipuService {
 	}
 
 	$values = $this->getFormLabels();
-	$html = new DOMDocument();
+	$html = new \DOMDocument();
 	$html->formatOutput = true;
 
 	$form = $html->createElement('form');
