@@ -1,5 +1,7 @@
 # Khipu
 
+I modified this library for personal use added option for use input ype image with default Phipu button or custom url or input type submit with custom value, added class option on render form for Page create
+
 Versión Biblioteca: 1.3
 
 Versión API Khipu: 1.3
